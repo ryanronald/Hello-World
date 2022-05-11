@@ -1,4 +1,4 @@
 # Hello, World!
  Primeiro Repositório para teste
 
- repositória criado durante uma aula gravada 
+ Repositória criado durante uma aula gravada!
